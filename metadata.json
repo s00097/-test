@@ -1,0 +1,6 @@
+{
+  "name": "Verdant - 植物植栽選品店",
+  "description": "極簡有機風格的現代室內植物與植栽選品電商平台，提供植物分類瀏覽、商品詳情、養護指南與購物車結帳功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
